@@ -1,9 +1,10 @@
 {
+  "homepage": "https://mirunahaidu.github.io/age-calculator/",
   "name": "age-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mirunahaidu.github.io/age-calculator/",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +12,7 @@
     "preview": "vite preview",
     
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "react": "^18.2.0",
