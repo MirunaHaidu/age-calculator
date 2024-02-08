@@ -1,8 +1,27 @@
-# React + Vite
+# Age Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple age calculator app built with React + Vite. It allows users to calculate their age based on the input of their birthdate. The app provides results in years, months, and days, and includes validation to ensure accurate input.
 
-Currently, two official plugins are available:
+## Usage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Enter your birthdate in the input fields provided (day, month, year).
+2. Click the submit button.
+3. View your age calculated in years, months, and days.
+4. Receive validation errors if any of the input fields are invalid.
+
+<img width="675" alt="image" src="https://github.com/MirunaHaidu/age-calculator/assets/110763663/43820137-460a-4068-93c4-1116fe75e595">
+
+<img width="671" alt="image" src="https://github.com/MirunaHaidu/age-calculator/assets/110763663/6020ad69-acee-4829-a974-d539d1052961">
+
+<img width="655" alt="image" src="https://github.com/MirunaHaidu/age-calculator/assets/110763663/cadeb9c3-30a7-4075-8faf-62294aad08fc">
+
+
+## Project Structure
+
+- `src/`: Contains the source code of the React application.
+  - `components/`: Contains React components used in the app.
+  - `App.js`: Main component that renders the app.
+- `public/`: Contains public assets such as images and icons.
+- `package.json`: Contains project metadata and dependencies.
+
+
