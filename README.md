@@ -13,7 +13,8 @@ This is a simple age calculator app built with React + Vite. It allows users to 
 
 <img width="671" alt="image" src="https://github.com/MirunaHaidu/age-calculator/assets/110763663/6020ad69-acee-4829-a974-d539d1052961">
 
-<img width="655" alt="image" src="https://github.com/MirunaHaidu/age-calculator/assets/110763663/cadeb9c3-30a7-4075-8faf-62294aad08fc">
+<img width="672" alt="image" src="https://github.com/MirunaHaidu/age-calculator/assets/110763663/dfb13aa5-d5fe-41a4-af3b-6400fbf7f3e5">
+
 
 
 ## Project Structure
