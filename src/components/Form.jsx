@@ -115,7 +115,7 @@ const Form = ({ handleSubmit }) => {
                 <div className="button-container">
                     <div className="line"></div>
                     <button className="button" type="submit">
-                        <img src="./src/assets/images/icon-arrow.svg" alt="Icon arrow" />
+                        <img src="src\assets\images\icon-arrow.svg" alt="Icon arrow" />
                     </button>
                 </div>
             </form>
